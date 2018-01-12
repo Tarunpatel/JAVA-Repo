@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="114072" started-at="2018-01-11T09:53:09Z" finished-at="2018-01-11T09:55:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="114072" started-at="2018-01-11T09:53:09Z" finished-at="2018-01-11T09:55:03Z">
+      <class name="Test.TestLogin">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Test.TestLogin@25af5db5]" name="setup" is-config="true" duration-ms="7870" started-at="2018-01-11T15:23:09Z" finished-at="2018-01-11T15:23:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test_URL_Launch_Appear_Correct()[pri:0, instance:Test.TestLogin@25af5db5]" name="test_URL_Launch_Appear_Correct" duration-ms="16854" started-at="2018-01-11T15:23:17Z" finished-at="2018-01-11T15:23:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_URL_Launch_Appear_Correct -->
+        <test-method status="PASS" signature="test_Search()[pri:1, instance:Test.TestLogin@25af5db5]" name="test_Search" duration-ms="38580" started-at="2018-01-11T15:23:34Z" finished-at="2018-01-11T15:24:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Search -->
+        <test-method status="PASS" signature="test_AddPerson()[pri:2, instance:Test.TestLogin@25af5db5]" name="test_AddPerson" duration-ms="27069" started-at="2018-01-11T15:24:12Z" finished-at="2018-01-11T15:24:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_AddPerson -->
+        <test-method status="PASS" signature="verify_Addperson()[pri:3, instance:Test.TestLogin@25af5db5]" name="verify_Addperson" duration-ms="13435" started-at="2018-01-11T15:24:39Z" finished-at="2018-01-11T15:24:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Addperson -->
+        <test-method status="PASS" signature="verify_Defendant()[pri:4, instance:Test.TestLogin@25af5db5]" name="verify_Defendant" duration-ms="9595" started-at="2018-01-11T15:24:53Z" finished-at="2018-01-11T15:25:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Defendant -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Test.TestLogin@25af5db5]" name="teardown" is-config="true" duration-ms="646" started-at="2018-01-11T15:25:02Z" finished-at="2018-01-11T15:25:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Test.TestLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
